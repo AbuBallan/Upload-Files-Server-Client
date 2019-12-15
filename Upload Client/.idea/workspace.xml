@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="577f6e87-6edb-48e9-acc2-94ee43d7f40a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="993" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectId" id="1UQE127BeNJkQk2jMirjBNFLw0G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576108794511" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Upload Server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atypon.upload.shared" />
+      <recent name="com.atypon.upload.client.model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atypon.upload.client.Main" />
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atypon.upload.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="577f6e87-6edb-48e9-acc2-94ee43d7f40a" name="Default Changelist" comment="" />
+      <created>1575280199612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575280199612</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="175" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1576070195852">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="561" y="175" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1373.873@67.27.1373.873" timestamp="1576070195852" />
+    <state x="536" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576396459341">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="536" y="220" width="424" height="484" key="FileChooserDialogImpl/67.27.1373.873@67.27.1373.873" timestamp="1576396459341" />
+    <state width="641" height="219" key="GridCell.Tab.0.bottom" timestamp="1575382069523">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="641" height="219" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1575382069523" />
+    <state width="641" height="219" key="GridCell.Tab.0.center" timestamp="1575382069522">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="641" height="219" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1575382069522" />
+    <state width="641" height="219" key="GridCell.Tab.0.left" timestamp="1575382069522">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="641" height="219" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1575382069522" />
+    <state width="641" height="219" key="GridCell.Tab.0.right" timestamp="1575382069522">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="641" height="219" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1575382069522" />
+    <state x="67" y="166" width="1363" height="592" key="new project wizard" timestamp="1575381316318">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="67" y="166" width="1363" height="592" key="new project wizard/67.27.1373.873@67.27.1373.873" timestamp="1575381316318" />
+    <state x="416" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1575379902642">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="416" y="212" width="672" height="678" key="search.everywhere.popup/67.27.1373.873@67.27.1373.873" timestamp="1575379902642" />
+  </component>
+</project>
