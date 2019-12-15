@@ -49,6 +49,7 @@ public class ClientRunnable implements Runnable {
         System.out.printf("%s uploaded successfully\n", remotePathOptional.get());
       else System.out.printf("%s failed\n", fileConfig.getFileName());
     } catch (Exception e) {
+      e.printStackTrace();
       throw new RuntimeException(e);
     }
   }

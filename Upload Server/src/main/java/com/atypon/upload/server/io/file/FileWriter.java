@@ -25,6 +25,7 @@ public class FileWriter implements StreamWriter<FileConfig> {
   public void setConfig(FileConfig fileConfig) {
     this.fileConfig = fileConfig;
     filePath = String.format("%s/%s", FOLDER, fileConfig.getFileName());
+    prepareFile();
     try {
       output = new FileOutputStream(filePath);
       out = new BufferedOutputStream(output);
@@ -35,7 +36,6 @@ public class FileWriter implements StreamWriter<FileConfig> {
 
   @Override
   public Optional<String> write(InputStream in) {
-    prepareFile();
     try {
       long fileLength = fileConfig.getFileSize();
       byte[] buffer = new byte[FILE_BUFFER];
